@@ -8,8 +8,15 @@ var Message = 0
 ```
 
 ### h3
+
+- [ ] thing not done
+- [x] thing done
+- [x] different thing done
+- bullet point
+
 #### h4
 ##### h5
 ###### h6
+
 
 
